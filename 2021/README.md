@@ -4,7 +4,7 @@ As every year, with exception of the last one when I forgot about it, I'm gonna 
 | Day 	| Name        	| Status             	|
 |-----	|-------------	|--------------------	|
 | 1   	| Sonar Sweep 	| :heavy_check_mark: 	|
-| 2   	|             	|                    	|
+| 2   	| Dive!      	| :heavy_check_mark:   	|
 | 3   	|             	|                    	|
 | 4   	|             	|                    	|
 | 5   	|             	|                    	|
