@@ -6,7 +6,7 @@ As every year, with exception of the last one when I forgot about it, I'm gonna 
 | 1   	| Sonar Sweep 	    | :heavy_check_mark: 	|
 | 2   	| Dive!      	    | :heavy_check_mark:   	|
 | 3   	| Binary Diagnostic | :heavy_check_mark:   	|
-| 4   	|             	|                    	|
+| 4   	| Giant Squid       | :heavy_check_mark:   	|
 | 5   	|             	|                    	|
 | 6   	|             	|                    	|
 | 7   	|             	|                    	|
