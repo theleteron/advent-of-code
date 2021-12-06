@@ -8,7 +8,7 @@ As every year, with exception of the last one when I forgot about it, I'm gonna 
 | 3   	| Binary Diagnostic     | :heavy_check_mark:   	|
 | 4   	| Giant Squid           | :heavy_check_mark:   	|
 | 5   	| Hydrothermal Venture  | :heavy_check_mark:   	|
-| 6   	|             	|                    	|
+| 6   	| Lanternfish           | :white_check_mark:    |
 | 7   	|             	|                    	|
 | 8   	|             	|                    	|
 | 9   	|             	|                    	|
