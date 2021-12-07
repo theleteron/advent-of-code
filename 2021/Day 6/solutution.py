@@ -33,7 +33,22 @@ class Day():
         return lenght
 
     def part2(self, days):
-        pass
+        # Using dictionary idea https://github.com/mebeim/aoc/blob/master/2021/solutions/day06.py
+        for _ in range(days):
+            newborn = defaultdict(int)
+
+            for d, fish in self.counter.items():
+                d -= 1
+
+                if d < 0:
+                    newborn[6] += fish
+                    newborn[8] += fish
+                else:
+                    newborn[d] += fish
+                
+            self.counter = newborn
+        
+        return sum(self.counter.values())
 
 if __name__ == "__main__":
     DATA_INPUT_LOCATION = "data.in"
