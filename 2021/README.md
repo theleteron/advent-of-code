@@ -10,7 +10,7 @@ As every year, with exception of the last one when I forgot about it, I'm gonna 
 | 5   	| Hydrothermal Venture      | :heavy_check_mark:   	|
 | 6   	| Lanternfish               | :heavy_check_mark:   	|
 | 7   	| The Treachery of Whales   | :heavy_check_mark:   	|
-| 8   	|             	|                    	|
+| 8   	| Seven Segment Search     	| :heavy_check_mark:   	|
 | 9   	|             	|                    	|
 | 10  	|             	|                    	|
 | 11  	|             	|                    	|
