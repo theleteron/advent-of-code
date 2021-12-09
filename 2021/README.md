@@ -11,7 +11,7 @@ As every year, with exception of the last one when I forgot about it, I'm gonna 
 | 6   	| Lanternfish               | :heavy_check_mark:   	|
 | 7   	| The Treachery of Whales   | :heavy_check_mark:   	|
 | 8   	| Seven Segment Search     	| :heavy_check_mark:   	|
-| 9   	|             	|                    	|
+| 9   	| Smoke Basin            	| :heavy_check_mark:   	|
 | 10  	|             	|                    	|
 | 11  	|             	|                    	|
 | 12  	|             	|                    	|
